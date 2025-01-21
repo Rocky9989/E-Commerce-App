@@ -2,6 +2,10 @@
 
 Welcome to my React E-commerce App project! This is a full-fledged online shopping experience with a dynamic product catalog, cart functionality, and more. 🚀
 
+
+## Live Demo
+[View the deployed app here](https://rocky9989.github.io/E-Commerce-App/)
+
 ## Table of Contents 📚
 
 - Introduction
